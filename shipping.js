@@ -4,8 +4,6 @@
  * https://radiveayourcv.sytes.net/devel/alperenn.beget.tech/alperenn.beget.tech__91__1_js.php?testForceCurrentTime=10:31&test_Force_Current_Day=12.05.2017
  * https://radiveayourcv.sytes.net/devel/alperenn.beget.tech/alperenn.beget.tech__91__js.php?testForceCurrentTime=10:31&test_Force_Current_Day=12.05.2017
  * uglifyjs jquery-scrolltofixed.js -m -c drop_console=true -o jquery-scrolltofixed-min.js.patched.js
- * uglifyjs jquery-scrolltofixed.js -m -c drop_console=true -o jquery-scrolltofixed-min.js.patched.js
- * uglifyjs jquery-scrolltofixed.js -m -c drop_console=true -o jquery-scrolltofixed-min.js.patched.js
  * ------------------------------------------------------------------------
  *
  * jquery-plugin-magento-1-shipping.js Version 0.1
